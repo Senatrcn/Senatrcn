@@ -1,5 +1,5 @@
 <img src="github-contribution-grid-snake.gif" width="auto">
-![snake gif](https://github.com/Senatrcn/Senatrcn/blob/output/github-contribution-grid-snake.gif)
+
 
 <!--
 **Senatrcn/Senatrcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
