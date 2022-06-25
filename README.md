@@ -1,3 +1,4 @@
+<img src="github-contribution-grid-snake.gif" width="auto">
 ![snake gif](https://github.com/Senatrcn/Senatrcn/blob/output/github-contribution-grid-snake.gif)
 
 <!--
